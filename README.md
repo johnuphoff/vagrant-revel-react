@@ -1,4 +1,4 @@
-# Ease Revel React
+# Vagrant Revel React
 
 ## Setup
 
