@@ -36,9 +36,8 @@ https://golang.org/doc/effective_go.html
 
    Run with <tt>--help</tt> for options.
 
-### Go to http://localhost:9000/ and you'll see:
-
-"It works"
+### Go to http://localhost:9000/ or http://33.33.33.33 and you'll see the sample react todo mvc:
+http://todomvc.com/examples/react/
 
 ### Description of Contents
 
