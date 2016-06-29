@@ -1,0 +1,9 @@
+test-results/
+tmp/
+routes/
+.vagrant/
+pkg/
+bin/
+src/
+npm-debug.log
+node_modules/

@@ -1,0 +1,20 @@
+{
+  "name": "ease-desktop",
+  "productName": "Ease",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ease, Inc",
+    "email": "john@easecentral.com"
+  },
+  "engines": {
+    "node": ">=4.2.0"
+  },
+  "private": true,
+  "devDependencies": {
+    "classnames": "^2.1.5",
+    "director": "^1.2.0",
+    "react": "^0.13.3",
+    "todomvc-app-css": "^2.0.0",
+    "todomvc-common": "^1.0.1"
+  }
+}
